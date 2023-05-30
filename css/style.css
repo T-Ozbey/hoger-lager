@@ -1,0 +1,27 @@
+body {
+    font-size: 400px;
+    text-align: center;
+    background-color: rgb(25, 163, 228);
+}
+
+.Hoger {
+    background-color: mediumspringgreen;
+    font-size: 50px;
+    float: left;
+    margin: 10px;
+}
+
+.Lager {
+    background-color: tomato;
+    font-size: 50px;
+    float: left;
+    margin: 10px;
+}
+
+.Punten {
+    background-color: darkorange;
+}
+
+header {
+    float: left;
+}
